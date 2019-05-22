@@ -9,11 +9,11 @@ This “meta-module” introduces the broad range of activities that comprise di
 
 ## Introduction
 
-The phrase [“digital scholarship”](https://en.wikipedia.org/wiki/Digital_scholarship) is used to describe a variety of activities performed by teachers, learners, and scholars across many disciplines. In contrast to “traditional” scholarship, which communicates the results of scholarly activities in a static form, whether through electronic or printed media, digital scholarship “creates and conveys through rich, layered, linked, and interactive engagements that are only possible in the digital realm.”<sup>[1](#myfootnote1)</sup> Those who work in digital scholarship emphasize that it is as much about the process of creating new forms of scholarship using digital tools and computational methods as it is about the products resulting from scholarly activities like research and teaching.
+The phrase [“digital scholarship”](https://en.wikipedia.org/wiki/Digital_scholarship) is used to describe a variety of activities performed by teachers, learners, and scholars across many disciplines. In contrast to “traditional” scholarship, which communicates the results of scholarly activities in a static form, whether through electronic or printed media, digital scholarship “creates and conveys through rich, layered, linked, and interactive engagements that are only possible in the digital realm.”<sup>[1](#note1)</sup> Those who work in digital scholarship emphasize that it is as much about the process of creating new forms of scholarship using digital tools and computational methods as it is about the products resulting from scholarly activities like research and teaching.
 
 In practice, digital scholarship can be defined in as many ways as there are researchers creating or using digital tools for research, teaching, and scholarly communication. The website [whatisdigitalhumanities.com](https://www.whatisdigitalhumanities.com/) offers a different definition of [digital humanities](https://en.wikipedia.org/wiki/Digital_humanities) - a closely related area - every time you refresh the page. While digital scholarship projects and activities can take numerous forms, they are generally collaborative in nature and require some combination of digital tools or techniques to solve a research or pedagogical problem. 
 
-<a name="myfootnote1">1</a>: Dietrich, Craig, and Ashley Sanders, ["On the Word, Digital"](https://acrl.ala.org/dh/2016/07/29/on-the-word-digital/), *dh+lib*. July 26, 2016.
+<sup><a name="note1">1</a></sup>: Dietrich, Craig, and Ashley Sanders, ["On the Word, Digital"](https://acrl.ala.org/dh/2016/07/29/on-the-word-digital/), *dh+lib*. July 26, 2016.
 
 ## Activities
 
