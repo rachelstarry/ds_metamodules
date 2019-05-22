@@ -9,18 +9,20 @@ This “meta-module” introduces the broad range of activities that comprise di
 
 ## Introduction
 
-The phrase [“digital scholarship”](https://en.wikipedia.org/wiki/Digital_scholarship) is used to describe a variety of activities performed by teachers, learners, and scholars across many disciplines. In contrast to “traditional” scholarship, which communicates the results of scholarly activities in a static form, whether through electronic or printed media, digital scholarship “creates and conveys through rich, layered, linked, and interactive engagements that are only possible in the digital realm.”<sup>[1](#note1)</sup> Those who work in digital scholarship emphasize that it is as much about the process of creating new forms of scholarship using digital tools and computational methods as it is about the products resulting from scholarly activities like research and teaching.
+The phrase [“digital scholarship”](https://en.wikipedia.org/wiki/Digital_scholarship) is used to describe a variety of activities performed by teachers, learners, and scholars across many disciplines. In contrast to “traditional” scholarship, which communicates the results of scholarly activities in a static form, whether through electronic or printed media, digital scholarship “creates and conveys through rich, layered, linked, and interactive engagements that are only possible in the digital realm.”<sup>[1](#note1)</sup> Those who work in digital scholarship emphasize that it is as much about the *process* of creating new forms of scholarship using digital tools and computational methods as it is about the *products* resulting from scholarly activities like research and teaching.<sup>[2](#note2)</sup><sup>[3](#note3)</sup>
 
 In practice, digital scholarship can be defined in as many ways as there are researchers creating or using digital tools for research, teaching, and scholarly communication. The website [whatisdigitalhumanities.com](https://www.whatisdigitalhumanities.com/) offers a different definition of [digital humanities](https://en.wikipedia.org/wiki/Digital_humanities) - a closely related area - every time you refresh the page. While digital scholarship projects and activities can take numerous forms, they are generally collaborative in nature and require some combination of digital tools or techniques to solve a research or pedagogical problem. 
 
 <sup><a name="note1">1</a></sup> Dietrich, Craig, and Ashley Sanders, ["On the Word, Digital"](https://acrl.ala.org/dh/2016/07/29/on-the-word-digital/), *dh+lib*. July 26, 2016.
+<sup><a name="note2">2</a></sup> Alexander, Brian, and Rebecca Frost Davis, ["Should Liberal Arts Campuses Do Digital Humanities? Process and Products in the Small College World"](http://dhdebates.gc.cuny.edu/debates/text/25), *Debates in the Digital Humanities 2016*. University of Minnesota Press, 2016.
+<sup><a name="note3">3</a></sup> Coble, Zach, Sarah Potvin, and Roxanne Shirazi, ["Process as Product: Scholarly CommunicationExperiments in the Digital Humanities"](http://dx.doi.org/10.7710/2162-3309.1137), *Journal of Librarianship and Scholarly Communication* 2(3):eP1137. 2014.
 
 ## Activities
 
 - [ ] Complete [SSRC Module 1: Introduction to Digital Scholarship and Digital Projects](https://labs.ssrc.org/dds/articles/1-introduction-to-digital-scholarship-and-digital-projects/)
 
 - [ ] Additional Readings:
-	* Lippincott, Joan, Harriette Hemmasi, and Vivian Lewis. “Trends in Digital Scholarship Centers,” Educause Review. June 16, 2014. https://er.educause.edu/articles/2014/6/trends-in-digital-scholarship-centers  ◊  **Estimated Read Time = 20 minutes**
+	* Lippincott, Joan, Harriette Hemmasi, and Vivian Lewis. “Trends in Digital Scholarship Centers,” *Educause Review*. June 16, 2014. https://er.educause.edu/articles/2014/6/trends-in-digital-scholarship-centers  **◊  Estimated Read Time = 20 minutes**
 	* Nowviskie, Bethany. “A skunk in the library.” June 28, 2011. http://nowviskie.org/2011/a-skunk-in-the-library/  ◊  **Estimated Read Time = 25 minutes**
 	* Moritz, Carolyn, et al. "De-Centering and Recentering Digital Scholarship: A Manifesto."  August 7, 2017. https://osf.io/xec2f/  ◊  **Estimated Read Time = 15 minutes**
 	* Muñoz, Trevor. “Digital humanities in the library isn't a service.” August 19, 2012. http://trevormunoz.com/notebook/2012/08/19/doing-dh-in-the-library.html  ◊  **Estimated Read Time = 8 minutes**
