@@ -13,7 +13,7 @@ The phrase [“digital scholarship”](https://en.wikipedia.org/wiki/Digital_sch
 
 In practice, digital scholarship can be defined in as many ways as there are researchers creating or using digital tools for research, teaching, and scholarly communication. The website [whatisdigitalhumanities.com](https://www.whatisdigitalhumanities.com/) offers a different definition of [digital humanities](https://en.wikipedia.org/wiki/Digital_humanities) - a closely related area - every time you refresh the page. While digital scholarship projects and activities can take numerous forms, they are generally collaborative in nature and require some combination of digital tools or techniques to solve a research or pedagogical problem. 
 
-<sup><a name="note1">1</a></sup>: Dietrich, Craig, and Ashley Sanders, ["On the Word, Digital"](https://acrl.ala.org/dh/2016/07/29/on-the-word-digital/), *dh+lib*. July 26, 2016.
+<sup><a name="note1">1</a></sup> Dietrich, Craig, and Ashley Sanders, ["On the Word, Digital"](https://acrl.ala.org/dh/2016/07/29/on-the-word-digital/), *dh+lib*. July 26, 2016. [↩](#note1)
 
 ## Activities
 
