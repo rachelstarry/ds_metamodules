@@ -1,6 +1,8 @@
 # Meta-Module #1: What Is Digital Scholarship (and How Are Libraries Supporting It)?
 
-This “meta-module” introduces the broad range of activities that comprise digital scholarship and some of the ways that academic libraries have engaged with and supported digital scholarship over the past two decades. 
+This “meta-module” introduces the broad range of activities that comprise digital scholarship and some of the ways that academic libraries have engaged with and supported digital scholarship over the past few decades. 
+
+**Estimated Completion Time = 5 hours**
 
 ## Outcomes
 
@@ -16,7 +18,7 @@ In practice, digital scholarship can be defined in as many ways as there are res
 Notes:</br>
 <sup><a name="note1">1</a></sup> Dietrich, Craig, and Ashley Sanders, ["On the Word, Digital"](https://acrl.ala.org/dh/2016/07/29/on-the-word-digital/), *dh+lib*. July 26, 2016. </br>
 <sup><a name="note2">2</a></sup> Alexander, Brian, and Rebecca Frost Davis, ["Should Liberal Arts Campuses Do Digital Humanities? Process and Products in the Small College World"](http://dhdebates.gc.cuny.edu/debates/text/25), *Debates in the Digital Humanities 2016*. University of Minnesota Press, 2016. </br>
-<sup><a name="note3">3</a></sup> Coble, Zach, Sarah Potvin, and Roxanne Shirazi, ["Process as Product: Scholarly Communication Experiments in the Digital Humanities"](http://dx.doi.org/10.7710/2162-3309.1137), *Journal of Librarianship and Scholarly Communication* 2(3):eP1137. 2014.
+<sup><a name="note3">3</a></sup> Coble, Zach, Sarah Potvin, and Roxanne Shirazi, ["Process as Product: Scholarly Communication Experiments in the Digital Humanities"](http://dx.doi.org/10.7710/2162-3309.1137), *Journal of Librarianship and Scholarly Communication* 2(3), eP1137. 2014.
 
 ## Activities
 

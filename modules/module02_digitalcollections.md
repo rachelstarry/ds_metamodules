@@ -2,22 +2,25 @@
 
 This "meta-module" introduces some tools and resources for finding and creating digital collections, as well as methods for utilizing collections for digitally-inflected research and teaching.
 
-**Estimated Completion Time = 4 hours**
+**Estimated Completion Time = 4.5 hours**
 
 ## Outcomes
 
 * Increased understanding of the affordances of print versus digital media for research and teaching
-* Improved familiarity with repositories and platforms for collecting digital materials (either born-digital or digitized)
+* Improved familiarity with existing repositories and platforms for collecting digital materials (either born-digital or digitized)
 * Improved ability to evaluate digital projects and collections
 
 ## Introduction
 
-...
+Digital scholarship methodologies generally require data to be in digital form for analysis and display, whether that data consists of text and numbers or other common formats for the humanities and social sciences, such as images, audio, or video. For this reason, digital scholarship projects also commonly involve the creation of digital materials, either through digitization or through the generation of born-digital artifacts. Since the "digital turn"<sup>[1](#note1) - but especially in recent years - the long-term preservation of digital materials created throughout the lifespan of a digital project has become a central concern for both digital scholarship practitioners and academic libraries that support digital scholarship.<sup>[2](#note2)
 
-Note notation = <sup>[1](#note1)
+Online collections of digital materials are therefore a fundamental component of digital scholarship, and numerous technologies have been developed over the past few decades to assist in managing and preserving digital collections as well as sharing them online. From archives and collections management software to repository platforms and web content management systems (CMS), a variety of both open and proprietary tools are available that can help researchers and institutions manage their digital collections and make them available for a wide audience to view or interact with online.
+
+While this module directly addresses only one common tool for working with digital collections - [Omeka](https://omeka.org/) - the readings and activities introduce some fundamental issues, approaches, and theoretical concepts that are critical for understanding digital collections within the context of academic libraries.
 
 Notes:</br>
-<sup><a name="note1">1</a></sup> ... </br>
+<sup><a name="note1">1</a></sup> Mills, Kathy Ann, ["A Review of the “Digital Turn” in the New Literacy Studies,"](https://doi.org/10.3102/0034654310364401) *Review of Educational Research* 80(2), 246–271. 2010. </br>
+<sup><a name="note2">2</a></sup> Russell, Kelly, Ellis Weinberger, and Andy Stone, ["Preserving digital scholarship: the future is now,"](https://doi.org/10.1087/09531519950145670) *Learned Publishing* 12(4), 271-280. 1999. 
 
 ## Activities
 
