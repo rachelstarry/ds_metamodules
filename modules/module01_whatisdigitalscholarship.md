@@ -40,7 +40,7 @@ Notes:</br>
 	* Read the full report for each profile
 	* Consider the following questions for each profile: 
 		* When was this digital scholarship center or library unit established, and does its web presence discuss the history of digital scholarship support at this library or institution prior to (or since) its establishment? 
-		* What kinds of research or other services are offered for digital scholarship at this library? 
+		* What kinds of support for digital scholarship are available at this library? 
 		* How does this center or unit articulate its mission and values, and do those mission and values overlap with or differ from your own library’s charge or strategic goals?
 		* Which disciplines, academic units, or communities does this center or unit support, and what kinds of projects has it created, supported, or partnered on?
 
