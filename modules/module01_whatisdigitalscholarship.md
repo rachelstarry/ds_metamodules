@@ -35,7 +35,7 @@ Notes:</br>
 
 - [ ] Skim the [SSRC Glossary](https://labs.ssrc.org/dds/articles/glossary/) for unfamiliar terms
 
-- [ ] Select and evaluate 2-3 [Digital Scholarship Support Profiles](https://www.arl.org/focus-areas/scholarly-communication/digital-scholarship/digital-scholarship-support), published by the Association of Research Libraries (ARL) in 2016-2017
+- [ ] Select and evaluate 2 or 3 [Digital Scholarship Support Profiles](https://www.arl.org/focus-areas/scholarly-communication/digital-scholarship/digital-scholarship-support), published by the Association of Research Libraries (ARL) in 2016-2017
 	* Explore the current web presence for each profile
 	* Read the full report for each profile
 	* Consider the following questions for each profile: 
