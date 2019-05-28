@@ -16,7 +16,7 @@ Digital scholarship methodologies generally require data to be in digital form f
 
 Online collections of digital materials are therefore a fundamental component of digital scholarship, and numerous technologies have been developed over the past few decades to assist in managing and preserving digital collections as well as sharing them online. From archives and collections management software to repository platforms and web content management systems (CMS), a variety of both open and proprietary tools are available that can help researchers and institutions manage their digital collections and make them available for a wide audience to view or interact with online.
 
-While this module directly addresses only one common tool for working with digital collections - [Omeka](https://omeka.org/) - the readings and activities introduce some fundamental issues, approaches, and theoretical concepts that are critical for understanding digital collections within the context of academic libraries.
+While this module directly addresses only one commonly used platform for working with digital collections - [Omeka](https://omeka.org/) - the readings and activities introduce some fundamental issues, approaches, and theoretical concepts that are critical for understanding digital collections within the context of academic libraries.
 
 Notes:</br>
 <sup><a name="note1">1</a></sup> Mills, Kathy Ann, ["A Review of the “Digital Turn” in the New Literacy Studies,"](https://doi.org/10.3102/0034654310364401) *Review of Educational Research* 80(2), 246–271. 2010. </br>
