@@ -7,8 +7,8 @@ This "meta-module" introduces some tools and resources for finding and creating 
 ## Outcomes
 
 * Increased understanding of the affordances of print versus digital media for research and teaching
-* Improved familiarity with online repositories and platforms for preserving and publishing digital materials (either born-digital or digitized)
-* Improved ability to select a content management system for different kinds of digital collections
+* Improved familiarity with repositories and platforms for collecting digital materials (either born-digital or digitized)
+* Improved ability to evaluate digital projects and collections
 
 ## Introduction
 
@@ -29,7 +29,8 @@ Notes:</br>
 	* McGrath, Jim. "Hyperlocal Histories and Digital Collections." October 15, 2018. http://jimmcgrath.us/blog/hyperlocal-histories-and-digital-collections-dlf-forum-2018-talk/ **◊  Estimated Read Time = 14 minutes**
 
 - [ ] Alternate "Questions to Consider" for SSRC Module 5 and Additional Readings:
-	* ...
+	* What digital collections does your library make available to its users, and how might the user interfaces for those collections impact the experience of utilizing the collections for research or use in the classroom?
+	* How is your library currently engaging communities on campus or public audiences with your digital collections? How else might you promote or support the use of digital collections for research and teaching?
 
 - [ ] Review the [SSRC's list of Digital Collections](https://labs.ssrc.org/dds/articles/digital-collections/)
 	* Select and explore 2 or 3 collections that are unfamiliar to you
@@ -39,12 +40,14 @@ Notes:</br>
 		* Who is responsible for maintaining this collection? Is it static or continuously developing? 
 		* What kind of funding model supports the collection - short-term grant funding, ongoing institutional support, or some combination? How might this affect the availability of the materials in this collection, if a researcher relies on the materials for their research or teaching?
 
+- [ ] Skim the SSRC article on [Picking a Platform for a Digital Project](https://labs.ssrc.org/dds/articles/picking-a-platform-for-a-digital-project/), for content management systems that are useful for digital collections (especially Omeka and Mukurtu)
+
 - [ ] Explore the resources on [Always Already Computational - Collections As Data](https://collectionsasdata.github.io/)
 	* Read the [Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
 	* Select and explore 2 or 3 [Collections as Data "Facets"](https://collectionsasdata.github.io/facets/). These are examples of ways that libraries, museums, and archives are developing practices, infrastructure, and services to encourage the computational use of digital collections.
 	* Consider the following questions for the facets you selected:
 		* What issues or practical concerns was this implementation of Collections as Data responding to within its institutional context? Does it attempt to address the needs of a particular community or physical collection?
-		* How is your library supporting or promoting the use of digital collections for research and teaching? What would your library require to implement Collections as Data practices, and are there communities at your institution that might benefit from such services?
+		* What would your library require to implement Collections as Data practices, and are there communities at your institution that might benefit from such services?
 
 - [ ] Short Reflection
 	* Take a few minutes and try to articulate what you will take away from the readings, activities, and resources covered in this module. What is one concept that you feel you now understand better? One topic that was completely new to you? One question you would like to explore further? 
@@ -53,4 +56,8 @@ Notes:</br>
 
 ### Lists of online collections
 
-...
+* Library of Congress, [Digital Collections](https://www.loc.gov/collections/)
+* [Internet Archive Collections](https://www.loc.gov/collections/)
+* Harvard Library, Research Guide for History, [Digital Libraries/Collections](https://guides.library.harvard.edu/history/digital)
+* Iowa State University Library, Research Guide for Archives, [Digital Collections and Collection Descriptions](http://instr.iastate.libguides.com/c.php?g=208309&p=3357797)
+*  
