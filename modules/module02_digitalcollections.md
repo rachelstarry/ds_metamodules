@@ -27,7 +27,7 @@ Notes:</br>
 - [ ] Complete [SSRC Module 5: Building Digital Collections](https://labs.ssrc.org/dds/articles/5-building-digital-collections-2/)
 	* Alternate to Activity 2: Complete Miriam Posner's ["Up and Running with Omeka.net"](https://programminghistorian.org/en/lessons/up-and-running-with-omeka) tutorial on [The Programming Historian](https://programminghistorian.org/)
 
-- [ ] Additional Readings:
+- [ ] Additional Readings
 	* Manoff, Marlene. 2006. "The Materiality of Digital Collections: Theoretical and Historical Perspectives." *portal: Libraries and the Academy* 6 (3): 311-325. Johns Hopkins University Press. https://doi.org/10.1353/pla.2006.0042 **◊  Estimated Read Time = 42 minutes**
 	* McGrath, Jim. October 15, 2018. "Hyperlocal Histories and Digital Collections." http://jimmcgrath.us/blog/hyperlocal-histories-and-digital-collections-dlf-forum-2018-talk/ **◊  Estimated Read Time = 14 minutes**
 
@@ -48,7 +48,7 @@ Notes:</br>
 		* What issues or practical concerns was this implementation of Collections as Data responding to within its institutional context? Does it attempt to address the needs of a particular community or physical collection?
 		* What would your library require to implement Collections as Data practices, and are there communities at your institution that might benefit from such services?
 
-- [ ] "Meta" Questions to Consider:
+- [ ] "Meta" Questions to Consider
 	* What digital collections does your library make available to its users, and how might the user interfaces for those collections impact the experience of utilizing the collections for research or teaching?
 	* How is your library currently engaging campus communities or public audiences with your digital collections? How might (or how do) your digital collections support digital scholarship work at your institution?
 

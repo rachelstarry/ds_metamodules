@@ -26,7 +26,7 @@ Notes:</br>
 
 - [ ] Complete [SSRC Module 1: Introduction to Digital Scholarship and Digital Projects](https://labs.ssrc.org/dds/articles/1-introduction-to-digital-scholarship-and-digital-projects/)
 
-- [ ] Additional Readings:
+- [ ] Additional Readings
 	* Lippincott, Joan, Harriette Hemmasi, and Vivian Lewis. June 16, 2014. “Trends in Digital Scholarship Centers.” *Educause Review*. https://er.educause.edu/articles/2014/6/trends-in-digital-scholarship-centers  **◊  Estimated Read Time = 20 minutes**
 	* Nowviskie, Bethany. June 28, 2011. “A skunk in the library.” http://nowviskie.org/2011/a-skunk-in-the-library/  **◊  Estimated Read Time = 25 minutes**
 	* Moritz, Carolyn, et al. August 7, 2017. "De-Centering and Recentering Digital Scholarship: A Manifesto." https://osf.io/xec2f/  **◊  Estimated Read Time = 15 minutes**
@@ -43,7 +43,7 @@ Notes:</br>
 		* How does this center or unit articulate its mission and values? 
 		* Which disciplines, academic units, or communities does this center or unit support, and what kinds of projects has it created, supported, or partnered on?
 
-- [ ] "Meta" Questions to Consider:
+- [ ] "Meta" Questions to Consider
 	* What activities and models for digital scholarship work are already taking place in your library or on your campus? 
 	* What kinds of benefits have you seen (or would you anticipate) from offering support to stakeholders at your institution for their digitally inflected research, teaching, or publishing activities?
 	* How might the research and educational support services in your library incorporate or partner with services or activities related to digital scholarship, or in what ways is this work being done to bridge silos at your institution? 
