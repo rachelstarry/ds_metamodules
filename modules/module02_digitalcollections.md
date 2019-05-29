@@ -7,7 +7,7 @@ This "meta-module" introduces some tools and resources for finding and creating 
 ## Outcomes
 
 * Increased understanding of the affordances of print versus digital media for research and teaching
-* Improved familiarity with existing repositories and platforms for collecting digital materials (either born-digital or digitized)
+* Improved familiarity with existing repositories and platforms for managing digital materials (either born-digital or digitized)
 * Improved ability to evaluate digital projects and collections
 
 ## Introduction
@@ -49,18 +49,23 @@ Notes:</br>
 		* What would your library require to implement Collections as Data practices, and are there communities at your institution that might benefit from such services?
 
 - [ ] "Meta" Questions to Consider:
-	* What digital collections does your library make available to its users, and how might the user interfaces for those collections impact the experience of utilizing the collections for research or use in the classroom?
-	* How is your library currently engaging communities on campus or public audiences with your digital collections? How might (or how do) your digital collections support digital scholarship work at your institution?
+	* What digital collections does your library make available to its users, and how might the user interfaces for those collections impact the experience of utilizing the collections for research or teaching?
+	* How is your library currently engaging campus communities or public audiences with your digital collections? How might (or how do) your digital collections support digital scholarship work at your institution?
 
 - [ ] Short Reflection
 	* Take a few minutes and try to articulate what you will take away from the readings, activities, and resources covered in this module. What is one concept that you feel you now understand better? One topic that was completely new to you? One question you would like to explore further? 
 
 ## Additional Resources
 
-### Lists of online collections
+### Useful lists of online collections
 
 * Library of Congress, [Digital Collections](https://www.loc.gov/collections/)
 * [Internet Archive Collections](https://www.loc.gov/collections/)
 * Harvard Library, Research Guide for History, [Digital Libraries/Collections](https://guides.library.harvard.edu/history/digital)
 * Iowa State University Library, Research Guide for Archives, [Digital Collections and Collection Descriptions](http://instr.iastate.libguides.com/c.php?g=208309&p=3357797)
-*  
+
+### Resources for selecting a digital collections platform
+
+* New York University Libraries, Research Guide for Common Tools for Teaching & Learning DH, [Which Tool Is Right for Me?](https://guides.nyu.edu/teachdh/choose)
+* Scheinfeldt, Tom. September 1, 2010. "Omeka and Its Peers." *Found History*. https://foundhistory.org/2010/09/omeka-and-its-peers/
+* Kirby, J. October 13, 2016. "Scholarly Smackdown: Scalar vs. Omeka." *Commons Knowledge*, University of Illinois Library's Scholarly Commons blog. https://publish.illinois.edu/commonsknowledge/2016/10/13/scholarly-smackdown-scalar-vs-omeka/
