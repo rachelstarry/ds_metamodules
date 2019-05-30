@@ -23,12 +23,12 @@ This "meta-module" introduces some foundational concepts, resources, and best pr
 	* Knowledge of institutional infrastructure and local sources of expertise or funding?
 
 - [ ] Explore [PM4DH: Project Management for the Digital Humanities](https://scholarblogs.emory.edu/pm4dh/)
-	* Read the materials created by the [Emory Center for Digital Scholarship](http://ecds.emory.edu/), on the 5 stages in the digital project lifecycle
-		1. Proposal
-		2. Initiation
-		3. Planning
-		4. Execution
-		5. Closing
+	* Read the materials created by the [Emory Center for Digital Scholarship](http://ecds.emory.edu/), on the 5 stages in the digital project lifecycle: 
+	1. Proposal
+	2. Initiation
+	3. Planning
+	4. Execution
+	5. Closing
 
 - [ ] Additional Readings
 	* 
