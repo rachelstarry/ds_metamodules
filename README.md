@@ -12,6 +12,12 @@ Creative Commons [Attribution 4.0 International](https://creativecommons.org/lic
 
 You are free to share and adapt this material, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. 
 
+# Modules
+
+1. [What Is Digital Scholarship (and How Are Libraries Supporting It)?](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module01_whatisdigitalscholarship.md)
+2. [Working with Digital Collections](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module02_digitalcollections.md)
+3. ...
+
 ### Contributors:
 
 - Dr. Rachel Starry, University at Buffalo (SUNY) 
