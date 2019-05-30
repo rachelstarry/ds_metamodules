@@ -34,10 +34,10 @@ Notes:</br>
 - [ ] Review the [SSRC's list of Digital Collections](https://labs.ssrc.org/dds/articles/digital-collections/)
 	* Select and explore 2 or 3 collections that are unfamiliar to you
 	* Consider the following questions for the collections you selected:
-		* Who created this collection - was it an individual, a project team, an academic institution, a non-profit organization, a commercial publisher, etc.? How might the authorship of a collection impact how it is organized, how it should be understood, or how it can be used?
+		* Who created this collection - was it an individual, a project team, an academic institution, a non-profit organization, a commercial publisher, etc.? How might the authorship of a collection impact how it is organized or how it might be used?
 		* Can you determine the criteria for the inclusion of materials in this collection?
 		* Who is responsible for maintaining this collection? Is it static or continuously developing? 
-		* What kind of funding model supports the collection - short-term grant funding, ongoing institutional support, or some combination? How might this affect the availability of the materials in this collection, if a researcher relies on these materials for their research or teaching?
+		* What kind of funding model supports the collection - short-term grant funding, ongoing institutional support, or some combination? How might the funding model affect the availability of the materials in this collection, if a researcher relies on these materials for their research or teaching?
 
 - [ ] Skim the SSRC article on [Picking a Platform for a Digital Project](https://labs.ssrc.org/dds/articles/picking-a-platform-for-a-digital-project/), for content management systems that are useful for digital collections (especially Omeka and Mukurtu)
 
