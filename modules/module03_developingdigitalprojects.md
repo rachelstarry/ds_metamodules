@@ -15,7 +15,7 @@ This "meta-module" introduces some foundational concepts, resources, and best pr
 
 ## Activities
 
-- [ ] Skim the SSRC article on [Project Planning](https://labs.ssrc.org/dds/articles/project-planning/) 
+- [ ] Skim the SSRC article on [Project Planning](https://labs.ssrc.org/dds/articles/project-planning/) <br>
 	Instead of (or in addition to) thinking through these planning steps for a digital project *you* are developing, consider *what resources or knowledge you would need* in order to advise a researcher through the project planning process: 
 	* Familiarity with particular tools or methods? 
 	* Knowledge of digital scholarship funding sources and the grant proposal process?
