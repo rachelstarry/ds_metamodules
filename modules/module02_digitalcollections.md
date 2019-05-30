@@ -2,7 +2,7 @@
 
 This "meta-module" introduces some tools and resources for finding and creating digital collections, as well as methods for utilizing collections for digitally-inflected research and teaching.
 
-**Estimated Completion Time = 4-5 hours**
+**Estimated Completion Time = 5 hours**
 
 ## Outcomes
 
