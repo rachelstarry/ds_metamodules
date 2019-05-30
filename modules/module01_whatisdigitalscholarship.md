@@ -2,7 +2,7 @@
 
 This “meta-module” introduces the broad range of activities that comprise digital scholarship and some of the ways that academic libraries have engaged with and supported digital scholarship over the past few decades. 
 
-**Estimated Completion Time = 4-5 hours**
+**Estimated Completion Time = 4 hours**
 
 ## Outcomes
 
