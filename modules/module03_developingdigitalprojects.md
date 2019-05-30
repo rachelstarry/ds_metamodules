@@ -2,7 +2,7 @@
 
 This "meta-module" introduces some foundational concepts, resources, and best practices for planning and developing digital scholarship projects.
 
-**Estimated Completion Time = 3 hours**
+**Estimated Completion Time = 4 hours**
 
 ## Outcomes
 
