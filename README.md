@@ -1,6 +1,6 @@
 # Digital Scholarship Meta-Modules: Professional Development for Librarians
 
-The Social Science Research Council (SSRC) has published [a series of self-guided modules](https://labs.ssrc.org/dds/article-categories/modules/) to introduce “digital novices” to the basics of the diverse areas of digital scholarship. These modules are primarily aimed at an audience of faculty and students (particularly graduate students), and some – though not all – of the topics have a social-science emphasis.
+The Social Science Research Council (SSRC) has published [a series of self-guided modules](https://labs.ssrc.org/dds/article-categories/modules/) to introduce “digital novices” to the basics of the diverse areas of digital scholarship. These modules are primarily aimed at an audience of faculty and students (particularly graduate students), and many of the topics have a social-science emphasis.
 
 While in general these modules are a fantastic resource for those new to digital scholarship, they were not necessarily created for an audience within academic libraries. Librarians who wish to gain a basic familiarity with the breadth of topics, methodologies, tools, and vocabulary associated with digital scholarship will likely find these modules useful on the whole, but their specific learning objectives, readings, and questions to consider are primarily aimed at faculty and students who want to integrate digital tools and methods into their research or teaching. 
 
