@@ -6,17 +6,17 @@ While in general these modules are a fantastic resource for those new to digital
 
 In order to transform the SSRC’s [Doing Digital Scholarship](https://labs.ssrc.org/dds/) modules into a more useful training opportunity for librarians, we have created a series of “meta-modules” which are based on the SSRC’s modules, with the goal of more closely aligning these self-guided lessons with librarian professional development. The “meta-modules” provide additional background, guidance, and questions to consider that are specific to an audience of library faculty and staff who wish to develop their awareness of digital scholarship tools, methods, and vocabulary in order to expand their knowledge and skillsets in these areas or better support researchers engaged in digital scholarship.
 
-# [License](https://github.com/rachelstarry/ds_metamodules/blob/master/LICENSE.txt) and Credits
-
-Creative Commons [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0)
-
-You are free to share and adapt this material, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. 
-
 # Modules
 
 1. [What Is Digital Scholarship (and How Are Libraries Supporting It)?](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module01_whatisdigitalscholarship.md)
 2. [Working with Digital Collections](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module02_digitalcollections.md)
 3. ...
+
+# [License](https://github.com/rachelstarry/ds_metamodules/blob/master/LICENSE.txt) and Credits
+
+Creative Commons [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0)
+
+You are free to share and adapt this material, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. 
 
 ### Contributors:
 
