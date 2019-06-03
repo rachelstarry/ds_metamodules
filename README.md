@@ -10,7 +10,7 @@ In order to transform the SSRC’s [Doing Digital Scholarship](https://labs.ssrc
 
 1. [What Is Digital Scholarship (and How Are Libraries Supporting It)?](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module01_whatisdigitalscholarship.md)
 2. [Working with Digital Collections](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module02_digitalcollections.md)
-3. ...
+3. [Developing Digital Projects](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module03_developingdigitalprojects.md)
 
 # [License](https://github.com/rachelstarry/ds_metamodules/blob/master/LICENSE.txt) and Credits
 
