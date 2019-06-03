@@ -33,7 +33,7 @@ This "meta-module" introduces some foundational concepts, resources, and best pr
 - [ ] "Meta" Questions to Consider
 	* In response to the article by Burress and Rowell, what project management strategies do you currently utilize? What strategies or approaches does your team, unit, or library currently employ? 
 	* How might you or your library's strategies for supporting research project planning and development need to adapt in order to support digital scholarship projects, as described in the articles by Morgan and Tabak?
-	* Across all of the various project planning and management phases described in the readings and activities, which aspects of digital project development are you currently prepared to support? Can you identify colleagues or potential partners, either within or beyond the library, who might be available to support other aspects of digital projects?
+	* Across all of the steps and considerations for the various project planning and management phases described in the readings and activities - which aspects of digital project development are you currently prepared to support? Can you identify colleagues or potential partners, either within or beyond the library, who might be available to support other aspects of digital projects?
 
 - [ ] Short Reflection
 	* Take a few minutes and try to articulate what you will take away from the readings, activities, and resources covered in this module. What is one concept that you feel you now understand better? One topic that was completely new to you? One question you would like to explore further? 
