@@ -22,12 +22,17 @@ In addition to the issue of sustainability, questions about purpose, audience, i
 - [ ] Skim the SSRC article on [Project Planning](https://labs.ssrc.org/dds/articles/project-planning/) <br>
 	Instead of (or in addition to) thinking through these planning steps for a digital project *you* are developing, consider *what resources or knowledge you would need* in order to advise a researcher through the project planning process: 
 	* Familiarity with particular tools or methods? 
-	* Knowledge of digital scholarship funding sources and the grant proposal process/timeline?
+	* Knowledge of digital scholarship funding sources and the grant proposal process?
 	* Understanding of user design or communication strategies for different audiences?
 	* Knowledge of institutional infrastructure and local sources of expertise or funding?
 
 - [ ] Explore [PM4DH: Project Management for the Digital Humanities](https://scholarblogs.emory.edu/pm4dh/)
-	* Read the materials created by the [Emory Center for Digital Scholarship](http://ecds.emory.edu/) on the 5 stages in the digital project lifecycle: 1. Proposal	2. Initiation	3. Planning		4. Execution	5. Closing
+	* Read the materials created by the [Emory Center for Digital Scholarship](http://ecds.emory.edu/) on the 5 stages in the digital project lifecycle: 
+	1. Proposal	
+	2. Initiation	
+	3. Planning		
+	4. Execution	
+	5. Closing
 
 - [ ] Additional Readings
 	* Burress, Theresa, and Chelcie Rowell. 2017. "Project management for digital projects with collaborators beyond the library." *College & Undergraduate Libraries* 24 (2-4): 300-321. https://doi.org/10.1080/10691316.2017.1336954 **◊  Estimated Read Time = 50 minutes**
@@ -37,7 +42,7 @@ In addition to the issue of sustainability, questions about purpose, audience, i
 - [ ] "Meta" Questions to Consider
 	* In response to the article by Burress and Rowell, what project management strategies do you currently utilize? What strategies or approaches does your team, unit, or library currently employ? 
 	* How might you or your library's strategies for supporting research project planning and development need to adapt in order to support digital scholarship projects, as described in the articles by Morgan and Tabak?
-	* Across all of the steps and considerations for the various project planning and management phases described in the readings and activities - which aspects of digital project development are you currently prepared to support? Can you identify colleagues or potential partners, either within or beyond the library, who might be available to support other aspects of digital projects?
+	* Across all of the steps and considerations for the various project planning and management phases described in the readings and activities, which aspects of digital project development are you currently prepared to support? Can you identify colleagues or potential partners, either within or beyond the library, who might be available to support other aspects of digital projects?
 
 - [ ] Short Reflection
 	* Take a few minutes and try to articulate what you will take away from the readings, activities, and resources covered in this module. What is one concept that you feel you now understand better? One topic that was completely new to you? One question you would like to explore further? 
