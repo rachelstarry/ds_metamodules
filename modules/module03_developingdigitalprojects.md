@@ -37,11 +37,12 @@ In addition to the issue of sustainability, questions about purpose, audience, i
 - [ ] Additional Readings
 	* Burress, Theresa, and Chelcie Rowell. 2017. "Project management for digital projects with collaborators beyond the library." *College & Undergraduate Libraries* 24 (2-4): 300-321. https://doi.org/10.1080/10691316.2017.1336954 **◊  Estimated Read Time = 50 minutes**
 	* Morgan, Paige. June 5, 2014. "How to get a digital humanities project off the ground." https://www.paigemorgan.net/how-to-get-a-digital-humanities-project-off-the-ground/ **◊  Estimated Read Time = 18 minutes**
+	* Sapienza, Stephanie. October 4, 2018. "Reckoning with Digital Projects: MITH Makes a Roadmap." https://mith.umd.edu/reckoning-with-digital-projects-mith-makes-a-roadmap/ **◊  Estimated Read Time = 10 minutes**
 	* Tabak, Edin. 2017. "A Hybrid Model for Managing DH Projects." *Digital Humanities Quarterly* 11 (1). http://www.digitalhumanities.org/dhq/vol/11/1/000284/000284.html **◊  Estimated Read Time = 1 hour and 5 minutes**
 
 - [ ] "Meta" Questions to Consider
 	* In response to the article by Burress and Rowell, what project management strategies do you currently utilize? What strategies or approaches does your team, unit, or library currently employ? 
-	* How might you or your library's strategies for supporting research project planning and development need to adapt in order to support digital scholarship projects, as described in the articles by Morgan and Tabak?
+	* How might you or your library's strategies for supporting research project planning and development need to adapt in order to support digital scholarship projects, as described in these articles?
 	* Across all of the steps and considerations for the various project planning and management phases described in the readings and activities, which aspects of digital project development are you currently prepared to support? Can you identify colleagues or potential partners, either within or beyond the library, who might be available to support other aspects of digital projects?
 
 - [ ] Short Reflection
@@ -55,6 +56,8 @@ In addition to the issue of sustainability, questions about purpose, audience, i
 * [DevDH.org](http://devdh.org/): Development for the Digital Humanities
 * Lynne Siemens, ["Project Management"](https://digitalpedagogy.mla.hcommons.org/keywords/project-management/) keyword in [*Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*](https://digitalpedagogy.mla.hcommons.org/)
 * [The Socio-Technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/introduction/), Visual Media Workshop at the University of Pittsburgh
+* [Sustainability Implementation Toolkit: Developing an Institutional Strategy for Supporting Digital Humanities Resources](https://sr.ithaka.org/publications/sustainability-implementation-toolkit/), Ithaka S+R, 2014 report by Nancy Maron and Sarah Pickle
+* [Project Sustainability in DH](https://digitalhumanities.berkeley.edu/blog/15/05/01/project-sustainability-dh-collaboration-and-community), Digital Humanities at Berkeley
 
 ### Further reading
 
