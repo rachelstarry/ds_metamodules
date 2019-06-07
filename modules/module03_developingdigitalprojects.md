@@ -15,7 +15,10 @@ Both individual digital scholarship practitioners and the myriad communities who
 
 Regardless of their scale, all digital projects are developed through multiple phases and require a concerted, collaborative effort to manage. In addition to planning for the immediate future, the long-term goals and sustainability of a project should be discussed at the outset: will the project exist in perpetuity? If so, who is responsible for supporting it, and if not, when and how should the project sunset? 
 
-In addition to the issue of sustainability, questions about purpose, audience, infrastructure, and ethics are central to the planning process for digital scholarship projects. This module attempts to frame these questions within the context of digital scholarship support in academic libraries, but folks working in multiple institutional spaces and roles may find these resources and activities valuable.
+In addition to the issue of sustainability,<sup>[1](#note1)</sup> questions about purpose, audience, infrastructure, and ethics are central to the planning process for digital scholarship projects. This module attempts to frame these questions within the context of digital scholarship support in academic libraries, but folks working in multiple institutional spaces and roles may find these resources and activities valuable.
+
+Notes:</br>
+<sup><a name="note1">1</a></sup> Pitti, Daniel. 2004. "Designing Sustainable Projects and Publications," in *A Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell.
 
 ## Activities
 
@@ -27,12 +30,7 @@ In addition to the issue of sustainability, questions about purpose, audience, i
 	* Knowledge of institutional infrastructure and local sources of expertise or funding?
 
 - [ ] Explore [PM4DH: Project Management for the Digital Humanities](https://scholarblogs.emory.edu/pm4dh/)
-	* Read the materials created by the [Emory Center for Digital Scholarship](http://ecds.emory.edu/) on the 5 stages in the digital project lifecycle: 
-	1. Proposal	
-	2. Initiation	
-	3. Planning		
-	4. Execution	
-	5. Closing
+	* Read the materials created by the [Emory Center for Digital Scholarship](http://ecds.emory.edu/) on the 5 stages in the digital project lifecycle:	1. Proposal		2. Initiation		3. Planning			4. Execution		5. Closing
 
 - [ ] Additional Readings
 	* Burress, Theresa, and Chelcie Rowell. 2017. "Project management for digital projects with collaborators beyond the library." *College & Undergraduate Libraries* 24 (2-4): 300-321. https://doi.org/10.1080/10691316.2017.1336954 **◊  Estimated Read Time = 50 minutes**
