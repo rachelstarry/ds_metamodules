@@ -11,7 +11,11 @@ This "meta-module" introduces some foundational concepts, resources, and best pr
 
 ## Introduction
 
-...
+Both individual digital scholarship practitioners and the myriad communities who support and contribute to digital projects throughout their lifecycle face a series of decisions related to planning, implementing, and sustaining digital projects. As with any project, the more thorough and thoughtful the planning process is, the more smooth the development of the project is likely to be over time. While some digital scholarship projects can be proposed and carried out within the span of a single semester or academic year, particularly those with direct curricular components, many larger-scale projects can take multiple years or longer to develop.
+
+Regardless of their scale, all digital projects are developed through multiple phases and require a concerted, collaborative effort to manage. In addition to planning for the immediate future, the long-term goals and sustainability of a project should be discussed at the outset: will the project exist in perpetuity? If so, who is responsible for supporting it, and if not, when and how should the project sunset? 
+
+In addition to the issue of sustainability, questions about purpose, audience, infrastructure, and ethics are central to the planning process for digital scholarship projects. This module attempts to frame these questions within the context of digital scholarship support in academic libraries, but folks working in multiple institutional spaces and roles may find these resources and activities valuable.
 
 ## Activities
 
