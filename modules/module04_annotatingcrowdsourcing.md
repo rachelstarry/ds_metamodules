@@ -23,7 +23,7 @@ This "meta-module" offers an overview of digital tools and resources for annotat
 
 - [ ] Review the [SSRC Resource Sheet: Crowdsourcing Tools](https://labs.ssrc.org/dds/articles/resource-sheet-crowdsourcing-tools/)
 	For each the three tools introduced - [Crowdcrafting](https://scifabric.com/crowdcrafting/), [Scripto](http://scripto.org/), and [Scribe](http://scribeproject.github.io/) - explore at least one example project built using the tool and consider the following questions:
-	* Is this platform still functional? If not, can you tell what happened to projects built with the tool? ([Click here](#noteA) to read more about Crowdcrafting and an alternative, [Zooniverse](https://www.zooniverse.org/).)
+	* Is this platform still functional? If not, can you tell what happened to projects built with the tool? ([^Click here](#noteA) to read more about Crowdcrafting and an alternative, [Zooniverse](https://www.zooniverse.org/).)
 	* What web publishing platforms and media formats is this tool compatible with? 
 	* Does the tool have particular infrastructure requirements?
 	* What is the transcription workflow?
