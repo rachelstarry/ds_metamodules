@@ -18,7 +18,7 @@ Regardless of their scale, all digital projects are developed through multiple p
 In addition to the issue of sustainability,<sup>[1](#note1)</sup> questions about purpose, audience, infrastructure, and ethics are central to the planning process for digital scholarship projects. This module attempts to frame these questions within the context of digital scholarship support in academic libraries, but folks working in multiple institutional spaces and roles may find these resources and activities valuable.
 
 Notes:</br>
-<sup><a name="note1">1</a></sup> Pitti, Daniel. 2004. "Designing Sustainable Projects and Publications," in *A Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell.
+<sup><a name="note1">1</a></sup> Pitti, Daniel. 2004. ["Designing Sustainable Projects and Publications"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-5-1), in *A Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell.
 
 ## Activities
 
