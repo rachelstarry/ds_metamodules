@@ -12,14 +12,15 @@ This "meta-module" offers an overview of digital tools and resources for annotat
 
 ## Introduction
 
-Two key outcomes for digital scholarship projects are their use within the classroom and their engagement of various public audiences, such as communities who have interest in or ownership of a project's materials. On the one hand, many digital tools have direct pedagogical applications. These include platforms that allow students and instructors to engage in asynchronous conversation on objects of study through collaborative annotation, commenting, and note-taking. On the other hand, many projects have crowdsourcing components that often require community participation for success. 
+Two key outcomes for digital scholarship projects are their use within the classroom and their engagement of various public audiences, such as communities who have interest in or ownership of a project's materials. On the one hand, many digital tools have direct pedagogical applications, particularly in higher ed. These include platforms that allow students and instructors to engage in asynchronous conversation on objects of study through collaborative annotation, commenting, and note-taking. On the other hand, many projects have crowdsourcing components that often require community participation for the creation and evaluation of project materials or data. 
 
-This module introduces a wide variety of digital tools and platforms for text- and image-based annotation and transcription. While few digital scholarship projects incorporate both of these elements, they can be thought of as two sides to the same coin - where the coin represents close, communal engagement with either born-digital or digitized media, with the goal of collaboratively marking up texts or images. The completion of this module does not require extended interaction with all of the tools and platforms introduced in various readings and activities, but the module is designed to give librarians a thorough overview of the current platforms that are available, along with their general affordances, applications, and drawbacks.
+This module introduces a wide variety of digital tools and platforms for text- and image-based annotation and transcription. While few digital scholarship projects incorporate both of these elements, they can be thought of as two sides to the same coin - where the coin represents close, communal engagement with either born-digital or digitized media, with the goal of collaboratively marking up texts or images. 
+
+The completion of this module does not necessitate extended interaction with all of the tools and platforms introduced in various readings and activities, but the module is designed to give librarians a thorough overview of the current platforms that are available, along with their general affordances, applications, and drawbacks.
 
 ## Activities
 
 - [ ] Complete [SSRC Module 4: Annotating Digital Collections](https://labs.ssrc.org/dds/articles/4-annotating-digital-collections/) <br>
-
 	While [ThingLink](https://www.thinglink.com/edu) offers a free trial version for educators, the free and open-source web publishing platform [Scalar](https://scalar.me/anvc/) has built-in image annotation functionality. [Read about Scalar's annotation capabilities here.](https://scalar.me/anvc/features/annotations/)
 
 - [ ] Additional Readings
