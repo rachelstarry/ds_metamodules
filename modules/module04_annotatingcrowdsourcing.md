@@ -12,7 +12,9 @@ This "meta-module" offers an overview of digital tools and resources for annotat
 
 ## Introduction
 
-...
+Two key outcomes for digital scholarship projects are their use within the classroom and their engagement of various public audiences, such as communities who have interest in or ownership of a project's material components. On the one hand, many digital tools have direct pedagogical applications. These include platforms that allow students and instructors to engage in asynchronous conversation on objects of study through collaborative annotation, commenting, and note-taking. On the other hand, many projects have crowdsourcing components that often require community participation for success. 
+
+This module introduces a wide variety of digital tools and platforms for text- and image-based annotation and transcription. While few digital scholarship projects incorporate both of these elements, they can be thought of as two sides to the same coin - where the coin represents close engagement with either born-digital or digitized media, with the goal of collaboratively marking up a text or image. The completion of this module does not require extended interaction with all of the tools and platforms introduced in various readings and activities, but the module is designed to give librarians a thorough overview of the current platforms that are available, along with their general affordances, applications, and drawbacks.
 
 ## Activities
 
@@ -53,6 +55,13 @@ This "meta-module" offers an overview of digital tools and resources for annotat
 * [Transcription](https://tinker.edu.au/digital-methods/transcription/), on [Tinker](https://tinker.edu.au/about/)
 * American Hisorical Association's list of [Crowd Transcription Projects](https://www.historians.org/teaching-and-learning/teaching-resources-for-historians/teaching-with-dighist/crowd-transcription-projects-resource)
 * [Smithsonian Digital Volunteers: Transcription Center](https://transcription.si.edu/browse)
+
+### Further reading
+
+* Bossewitch, Jonah, and Michael D. Preston. 2011. "Teaching and Learning with Video Annotations," in *Learning Through Digital Media: Experiments in Technology and Pedagogy*, edited by R. Trebor Scholz. New York: Institute for Distributed Creativity, 175-183. https://doi.org/10.7916/D8TB1H9J
+* Causer, Tim, Justin Tonra, and Valerie Wallace. 2012. "Transcription maximized; expense minimized? Crowdsourcing and editing The Collected Works of Jeremy Bentham." *Literary and Linguistic Computing* 27 (2):119–137. https://doi.org/10.1093/llc/fqs004
+* Terras, Melissa. 2016. "Crowdsourcing in the Digital Humanities," in *A New Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens, and John Unsworth. Malden, MA: Wiley-Blackwell, 420-439. https://hcommons.org/deposits/item/hc:15065/
+* Tracy, Daniel G. 2016. "Assessing Digital Humanities Tools: Use of Scalar at a Research University." *portal: Libraries and the Academy* 16 (1): 163-189. Johns Hopkins University Press. https://doi.org/10.1353/pla.2016.0004
 
 
 <a name="noteA">^</a> As of April 1, 2019, Scifabric discontinued support for Crowdcrafting and appears to have discontinued hosting services as well, meaning legacy projects are no longer available to view online. An archived version of the example project discussed in the SSRC Resource Sheet, [*Crime, Sex, and Violence*](https://web.archive.org/web/20170926104507/http://crowdcrafting.org/project/crime%2Csex%2Candviolence/), is available via the Internet Archive's [Wayback Machine](https://web.archive.org/), although the transcription interface supported by Crowdcrafting is no longer available. Explore the capabilities and projects on [Zooniverse.org](https://www.zooniverse.org/) as an alternative platform.
