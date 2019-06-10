@@ -42,7 +42,7 @@ The completion of this module does not necessitate extended interaction with all
 
 - [ ] "Meta" Questions to Consider
 	* Do you see any potential ethical or technical issues that might impact the use of annotation tools in the classroom, related to student privacy or platform interoperability? How might you advise instructors on the use of annotation tools with these potential issues in mind? 
-	* Are some annotation or transcription tool providers more transparent than others about data use and privacy?
+	* Are some annotation or transcription tool providers more transparent than others about user data collection and privacy?
 	* Based on your exploration of digital projects with text or handwriting transcription components as well as the theoretical framework for audio transcription discussed in the Bailey article - do you think text and audio transcription projects face similar challenges, or are there issues unique to different kinds of transcription? What challenges might a scholar face in developing an audio-transcription crowdsourcing project?
 
 - [ ] Short Reflection
