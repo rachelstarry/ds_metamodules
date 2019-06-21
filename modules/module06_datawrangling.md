@@ -2,38 +2,39 @@
 
 This “meta-module” introduces tools and best practices for cleaning and re-structuring tabular data in preparation for data analysis and visualization. 
 
-**Estimated Completion Time = ? hours**
+**Estimated Completion Time = 4 hours**
 
 ## Outcomes
 
-* Increased understanding of 
-* Increased understanding of 
+* Increased understanding of best practices and goals for data cleaning and transformation
+* Increased familiarity with data wrangling issues and methodologies
 
 ## Introduction
 
-<sup>[1](#note1)</sup> 
+Any introduction to the topic of data wrangling first has to contend with the question: what is "data"? Researchers across disciplines deal with a wide variety of quantitative and qualitative evidence on a daily basis, and given that everything now lives on our computers - regardless of what discipline you work in - this is becoming as true for folks in the humanities as in the sciences and social sciences. While definitions of "data" and methods for analyzing data vary, certain practices have become standard for working with information that is organized in tabular form - also called spreadsheet data. 
 
-Notes:</br>
-<sup><a name="note1">1</a></sup> Dietrich, Craig, and Ashley Sanders. July 26, 2016. "On the Word, Digital." *dh+lib* 2016 Special Issue. https://acrl.ala.org/dh/2016/07/29/on-the-word-digital/ </br>
+This module introduces one free and open-source tool for cleaning and transforming spreadsheet data: [OpenRefine](http://openrefine.org/). It also introduces some of the issues involved in defining data and the myriad activities that can be described as data cleaning or data wrangling.
 
 ## Activities
 
 - [ ] Complete [SSRC Module 6: Thinking about Data](https://labs.ssrc.org/dds/articles/6-thinking-about-data/) <br>
-	Alternate activity: instead of, or in addition to, the SSRC tutorial for OpenRefine, which recommends the excellent [“Cleaning Data with Open Refine”](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) lesson at The Programming Historian, you may want to dive deeper with the Data Carpentry lesson, ["OpenRefine for Social Science Data"](https://datacarpentry.org/openrefine-socialsci/).
+	Alternate activity: instead of, or in addition to, the SSRC tutorial for OpenRefine, which recommends the excellent [“Cleaning Data with OpenRefine”](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) lesson from The Programming Historian, you may want to dive deeper with the Data Carpentry lesson, ["OpenRefine for Social Science Data"](https://datacarpentry.org/openrefine-socialsci/).
 
 - [ ] Additional Readings
-	* Rawson, Katie, and Trevor Muñoz. July 6, 2016. “Against Cleaning.” http://curatingmenus.org/articles/against-cleaning/ **◊  Estimated Read Time = 30 minutes**
 	* Onuoha, Mimi. February 10, 2016. "The Point of Collection." https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa **◊  Estimated Read Time = 5 minutes**
+	* Posner, Miriam. June 25, 2015. "Humanities Data: A Necessary Contradiction." http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/ **◊  Estimated Read Time = 12 minutes**
+	* Rawson, Katie, and Trevor Muñoz. July 6, 2016. “Against Cleaning.” http://curatingmenus.org/articles/against-cleaning/ **◊  Estimated Read Time = 30 minutes**
 
-- [ ] Explore Mimi Onuoha's "On Missing Data Sets" <br>
-	Before data can be cleaned or transformed, it has to be collected, yet there is a limit to how much and what kinds of data we can or should collect. Explore the list of "missing data sets" and other resources in this repository, considering how our data collection methods may impact the kinds of data that are available to researchers in different disciplines.
+- [ ] Explore Mimi Onuoha's ["On Missing Data Sets"](https://github.com/MimiOnuoha/missing-datasets) <br>
+	Before data can be cleaned or transformed, it has to be collected, yet there are limits to how much and what kinds of data we can or should collect. Explore the list of "missing data sets" and other resources in this repository, considering how our data collection methods may impact the kinds of data that are available to researchers in different disciplines.
 
-- [ ] 
+- [ ] Read through Josh Errickson's ["Best Practices in Data Cleaning"](https://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/dataclean.html#content) <br>
 
 - [ ] "Meta" Questions to Consider
-	* What does it mean to "clean" or "wrangle" data? Is "data cleaning" content-agnostic: does it matter what the data actually represent?
+	* From your reading and exploration, can you formulate a definition or description of what it means to "clean" or "wrangle" data? Is "data cleaning" content-agnostic: does it matter what the data actually represent?
 	* In what ways is "data cleaning" a selective, critical, or subjective process? What kinds of decisions are made in the transformation of data from "raw" to "processed" form?
-	* What challenges might researchers from different disciplines face in the data-wrangling process: does survey data require a different approach, for example, than data generated by a scientific instrument or historical census data? How does your library support researchers working with data in the humanities, social sciences, and health or natural sciences?
+	* What challenges might researchers from different disciplines face in the data-wrangling process: does survey data require a different approach, for example, than data generated by a scientific instrument or historical census data? 
+	* How does your library support researchers working with data in the humanities, social sciences, and health or natural sciences? In response to Posner's article, how might you approach humanities researchers given their particular data-wrangling needs?
 
 - [ ] Short Reflection
 	* Take a few minutes and try to articulate what you will take away from the readings, activities, and resources covered in this module. What is one concept that you feel you now understand better? One topic that was completely new to you? One question you would like to explore further? 
@@ -43,6 +44,4 @@ Notes:</br>
 ### Some sources of open data:
 
 * ...
-
-
 
