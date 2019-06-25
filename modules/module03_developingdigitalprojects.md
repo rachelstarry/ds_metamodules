@@ -56,6 +56,7 @@ Notes:</br>
 * [The Socio-Technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/introduction/), Visual Media Workshop at the University of Pittsburgh
 * [Sustainability Implementation Toolkit: Developing an Institutional Strategy for Supporting Digital Humanities Resources](https://sr.ithaka.org/publications/sustainability-implementation-toolkit/), Ithaka S+R, 2014 report by Nancy Maron and Sarah Pickle
 * [Project Sustainability in DH](https://digitalhumanities.berkeley.edu/blog/15/05/01/project-sustainability-dh-collaboration-and-community), Digital Humanities at Berkeley
+* [Ethical EdTech Wiki](https://ethicaledtech.info/), a collaborative wiki of tools for ethical pedagogy (and projects)
 
 ### Further reading
 
