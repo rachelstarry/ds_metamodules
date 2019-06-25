@@ -23,12 +23,12 @@ Notes:</br>
 - [ ] Complete [SSRC Module 7: Basic Visualizations](https://labs.ssrc.org/dds/articles/5-building-digital-collections/)
 
 - [ ] Additional Readings
-	* Cesal, Amy. June 26, 2018. "Accessible data viz is better data viz." *Storytelling with Data* https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz **◊  Estimated Read Time = 6 minutes**
-	* Grosser, Zach. January 10, 2018. "Accessible Colors for Data Visualization." *Medium* https://medium.com/@zachgrosser/accessible-colors-for-data-visualization-2ad64ac4ee7e **◊  Estimated Read Time = 5 minutes**
-	* Kosara, Robert. March 2, 2017. "Sonification: The Power, The Problem." *EagerEyes* https://eagereyes.org/techniques/sonification-the-power-the-problems **◊  Estimated Read Time = 4 minutes**
-	* Kosara, Robert. 2017. "An Argument Structure for Data Stories." *Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)* https://kosara.net/publications/Kosara-EuroVis-2017.html **◊  Estimated Read Time = 20 minutes**
-	* Nussbaumer Knaflic, Cole. April 14, 2014. “Exploratory vs explanatory analysis.” *Storytelling with Data* https://www.storytellingwithdata.com/blog/2014/04/exploratory-vs-explanatory-analysis  **◊  Estimated Read Time = 3 minutes**
-	* Simmon, Robert. August 12, 2013. "Subtleties of Color: Different Data, Different Colors." *Visually* https://visual.ly/blog/subtleties-of-color-different-types-of-data-require-different-color-schemes/ **◊  Estimated Read Time = 5 minutes**
+	* Cesal, Amy. June 26, 2018. "Accessible data viz is better data viz." *Storytelling with Data*. https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz **◊  Estimated Read Time = 6 minutes**
+	* Grosser, Zach. January 10, 2018. "Accessible Colors for Data Visualization." *Medium*. https://medium.com/@zachgrosser/accessible-colors-for-data-visualization-2ad64ac4ee7e **◊  Estimated Read Time = 5 minutes**
+	* Kosara, Robert. March 2, 2017. "Sonification: The Power, The Problem." *EagerEyes*. https://eagereyes.org/techniques/sonification-the-power-the-problems **◊  Estimated Read Time = 4 minutes**
+	* Kosara, Robert. 2017. "An Argument Structure for Data Stories." *Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)*. https://kosara.net/publications/Kosara-EuroVis-2017.html **◊  Estimated Read Time = 20 minutes**
+	* Nussbaumer Knaflic, Cole. April 14, 2014. “Exploratory vs explanatory analysis.” *Storytelling with Data*. https://www.storytellingwithdata.com/blog/2014/04/exploratory-vs-explanatory-analysis  **◊  Estimated Read Time = 3 minutes**
+	* Simmon, Robert. August 12, 2013. "Subtleties of Color: Different Data, Different Colors." *Visually*. https://visual.ly/blog/subtleties-of-color-different-types-of-data-require-different-color-schemes/ **◊  Estimated Read Time = 5 minutes**
 
 - [ ] Explore [From Data to Viz](https://www.data-to-viz.com/)
 	* Choose a dataset from [Gapminder](https://www.gapminder.org/data/). You can search or browse data by "indicators" such as income, life expectency, or CO2 emissions for 191 countries.
@@ -39,17 +39,18 @@ Notes:</br>
 		* What kinds of questions would you want to ask of your selected data? Think of one question in particular: how many variables would you need to visualize in order to answer this question? The number of variables required to answer a question can have a significant impact on the kinds of charts available to help you visualize the data. 
 		* Finally, select and explore at least two types of chart with which you are not familiar. Read more about the chart type, including its affordances and caveats for using it, and browse the gallery of examples. 
 
-- [ ] Develop your visualization skills using [RAWGraphs](https://rawgraphs.io/)
-	RAWGraphs is an open-source data visualization framework developed by the DensityDesign Research Lab, based in Milan. It was created with the goal of making complex data visualization easy for everyone. 
+- [ ] Develop your visualization skills using [RAWGraphs](https://rawgraphs.io/) <br>
+	RAWGraphs is an open-source data visualization framework developed by the DensityDesign Research Lab. It was created with the goal of making complex data visualization easy for everyone. 
 	* Watch the "[Introduction to RAWGraphs](https://rawgraphs.io/learning/introduction-to-rawgraphs/)" video on RAWGraphs' [quick reference guide](https://rawgraphs.io/learning/).
 	* Read more about preparing your data for visualizing, in "[Stack your unstacked data (meet the unpivoter)](https://rawgraphs.io/learning/stack-your-unstacked-data-meet-the-unpivoter/)." The data you selected from Gapminder previously may be in "unstacked" form, particularly if it includes time-series data (many columns that each represent data collected in a particular year or other time period). 
-	* Import your data into the [RAWGraphs app](http://app.rawgraphs.io/). Try stacking your data using the "unpivoter": for example, many of the Gapminder datasets have a column with the name of a country and many other columns with data collected over time, such as literacy rates for different demographic groups or energy consumption in kilowatt hours. If this is the case, you can stack on the column "Country" in order to visualize your dataset in RAWGraphs.
-	* Using what you learned about your data from your exploration of From Data to Viz, select one or two chart types and practice creating a visualization in RAWGraphs, by dragging and dropping variables from your data onto the chart. See the "How to" guides for various chart types on [RAWGraphs' Learning page](https://rawgraphs.io/learning/).
+	* Import your data into the [RAWGraphs app](http://app.rawgraphs.io/). Try stacking your data using the "unpivoter": for example, many of the Gapminder datasets have a column with the name of a country and many other columns with data collected over time, such as literacy rates for different demographic groups or energy consumption in kilowatt hours. If this is the case, you can stack on the column "Country" in order to visualize your dataset in RAWGraphs. (Caveat: some Gapminder data may be too large to import into RAW; if you experience difficulty importing your data, copy and paste a subset of the data instead.)
+	* Using what you learned about your data from your exploration of From Data to Viz, select one or two chart types and practice creating a visualization in RAWGraphs, by selecting variables to visualize. For help creating your graphs, refer to the "how-to" guides for various chart types on [RAWGraphs' Learning page](https://rawgraphs.io/learning/).
 
 - [ ] "Meta" Questions to Consider
-	* What concerns about accessibility are raised in the readings? What do alternate data representation techniques such as sonification offer in terms of accessibility to users with visual impairment?
-	* There are a variety of data analysis and visualization workflows in use across disciplines. Given your understanding of basic data visualization techniques as introduced in these readings and resources, what kinds of issues might researchers across all disciplines face when developing visualizations? 
-	* How does your library support researchers in finding data, and how do (or how might) you support researchers in the subsequent step of transforming that data and preparing it for visualization?
+	* What concerns about accessibility are raised in the readings? What might alternate data representation techniques such as sonification offer in terms of accessibility to users with visual impairment? 
+	* How might the process of developing visualizations that will be shared online - i.e. viewed on a screen - differ from the creation of visualizations that will be encountered exclusively in print media? What other factors might you need to consider from the perspective of the user when you plan to publish data visualizations primarily in digital form?
+	* Given your understanding of basic data visualization techniques as introduced in these readings and resources, what kinds of issues might researchers across all disciplines face when developing visualizations? Can you imagine data visualization challenges particular to individual disciplines that you engage with in your library?
+	* How does your library support researchers in finding data, and how do (or how might) you support researchers in the subsequent steps of transforming that data and preparing it for visualization?
 
 - [ ] Short Reflection
 	* Take a few minutes and try to articulate what you will take away from the readings, activities, and resources covered in this module. What is one concept that you feel you now understand better? One topic that was completely new to you? One question you would like to explore further? 
