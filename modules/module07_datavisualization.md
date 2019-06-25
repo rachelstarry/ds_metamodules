@@ -11,14 +11,12 @@ This “meta-module” introduces some tools, methods, and best practices for re
 
 ## Introduction
 
-...
+While data analysis and visualization workflows can vary widely across disciplines, the field of information visualization has achieved consensus on certain practices and approaches.<sup>[1](#note1)</sup> On the one hand, [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis) includes several common processes, from summarizing data in order to understand how it is organized and making transformations where necessary, to visually exploring the data in order to illuminate potential underlying patterns. Explanatory data visualization - or "storytelling with data" - varies somewhat more in terms of the tools and platforms used to integrate scholarly or journalistic narratives with summary tables, charts, and maps.
 
-This module 
-
-<sup>[1](#note1)</sup> 
+This module places a greater emphasis on best practices for creating accessible data visualizations and selecting appropriate chart types for different kinds of data than on particular visualization workflows or tools. The readings and resources do, however, offer an opportunity to practice data wrangling and visualization skills using several different online platforms, and many library research guides offer guidance on desktop software such as Tableau or programming solutions like R and Python (see Additional Resources, below).
 
 Notes:</br>
-<sup><a name="note1">1</a></sup> ... </br>
+<sup><a name="note1">1</a></sup> Meirelles, Isabel. 2013. *Design for Information: An Introduction to the Histories, Theories, and Best Practices behind Information Visualizations*. Beverly, MA: Rockport Publishers. </br>
 
 ## Activities
 
