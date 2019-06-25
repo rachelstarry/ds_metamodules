@@ -59,4 +59,4 @@ This module introduces one free and open-source tool for cleaning and transformi
 * Florida Institute of Technology: [Data Cleaning](https://libguides.lib.fit.edu/c.php?g=871558&p=6256316)
 * George Mason University: [Working with Data: Data Cleaning](https://infoguides.gmu.edu/data-work/cleaning)
 * University of Illinois at Urbana-Champaign: [Data Cleaning for the Non-Data Scientist](https://guides.library.illinois.edu/datacleaning)
-* Wayne State University: [Digital Humanities and Digital Scholarship: Data Wrangling](https://guides.lib.wayne.edu/c.php?g=611950&p=4250920)* 
+* Wayne State University: [Digital Humanities and Digital Scholarship: Data Wrangling](https://guides.lib.wayne.edu/c.php?g=611950&p=4250920)
