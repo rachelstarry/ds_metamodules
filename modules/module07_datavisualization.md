@@ -37,7 +37,7 @@ Notes:</br>
 		* Is your data numeric, or is it categorical? ([Read more about numeric vs. categorical variables here.](https://eagereyes.org/basics/data-continuous-vs-categorical))
 		* Does your dataset include time-series ([also called longitudinal](https://www.nlsinfo.org/content/getting-started/what-are-longitudinal-data)) data? If so, what time periods are covered and how frequently was data collected?
 		* What kinds of questions would you want to ask of your selected data? Think of one question in particular: how many variables would you need to visualize in order to answer this question? The number of variables required to answer a question can have a significant impact on the kinds of charts available to help you visualize the data. 
-		* Finally, select and explore at least two types of chart with which you are not familiar. Read more about the chart type, including its affordances and caveats for using it, and browse the gallery of examples. 
+		* Finally, select and explore at least two types of charts with which you are not already familiar. Read more about the chart type, including its affordances and caveats for using it, and browse the gallery of examples. 
 
 - [ ] Develop your visualization skills using [RAWGraphs](https://rawgraphs.io/) <br>
 	RAWGraphs is an open-source data visualization framework developed by the DensityDesign Research Lab. It was created with the goal of making complex data visualization easy for everyone. 
