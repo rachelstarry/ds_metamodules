@@ -22,6 +22,10 @@ Creative Commons [Attribution 4.0 International](https://creativecommons.org/lic
 
 You are free to share and adapt this material, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. 
 
+# Feedback
+
+If you would like to provide feedback on your experience with these modules, [please fill out an anonymous evaluation form](https://airtable.com/shrTq4I3A05XdKx4E)!
+
 ### Contributors:
 
 - Dr. Rachel Starry, University at Buffalo (SUNY)
