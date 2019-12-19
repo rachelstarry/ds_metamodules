@@ -30,7 +30,7 @@ Some of the platforms and technologies discussed include [Scalar](https://scalar
 	* Varner, Stewart. January 15, 2017. "Minimal Computing in Libraries: Introduction." *Minimal Computing.* http://go-dh.github.io/mincomp/thoughts/2017/01/15/mincomp-libraries-intro/ **◊  Estimated Read Time = 5 minutes**
 	* Visconti, Amanda. December 8, 2015. "Introducing Static Sites for Digital Humanities Projects (why & what are Jekyll, GitHub, etc.?)" http://literaturegeek.com/2015/12/08/WhyJekyllGitHub **◊  Estimated Read Time = 6 minutes**
 
-- [ ] Explore and evaluate 3 university press platforms <br>
+- [ ] Explore and evaluate three university press platforms <br>
 	Take a few minutes to read the "About" pages for these platforms and explore 1-2 publications hosted on each of them.
 	* [Manifold Scholarship](https://manifoldapp.org/) (University of Minnesota Press and CUNY Graduate Center)
 	* [RavenSpace](https://ravenspacepublishing.org/) (University of British Columbia Press and University of Washington Press)
@@ -45,7 +45,7 @@ Some of the platforms and technologies discussed include [Scalar](https://scalar
 	* Thinking about the various publishing platforms you have encountered during this module, what are some of the affordances of each for different modes of storytelling or scholarly communication? Are some better for short-form versus long-form text? How do they allow authors to incorporate multimedia, datasets, or other interactive, multimodal components into their narratives?
 	* Given the development of so many open-source content management systems and publishing platforms, what role do you think academic libraries might play in helping scholars navigate this changing publishing landscape? 
 	* How have your explorations of these platforms informed your understanding of the challenges and opportunities related to publishing a digital monograph or creating a digital project web interface?
-	* What are some of the benefits or drawbacks of minimal computing in comparison to university press platforms and self-hosted CMS sites? How does a minimal computing approach address the issue of sustainability? How do the university press platforms address it?
+	* What are some of the benefits or drawbacks of minimal computing in comparison to university press platforms and self-hosted CMS sites? How does a minimal computing approach address issues of preservation and sustainability? How do the university press platforms address those issues?
 
 - [ ] Short Reflection
 	* Take a few minutes and try to articulate what you will take away from the readings, activities, and resources covered in this module. What is one concept that you feel you now understand better? One topic that was completely new to you? One question you would like to explore further? 
@@ -67,11 +67,11 @@ Some of the platforms and technologies discussed include [Scalar](https://scalar
 * [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka), by Miriam Posner. *The Programming Historian*.
 * [Learning to Use Scalar](http://scalar.usc.edu/works/learning-to-use-scalar-2/index), by Allyssa Guzman. University of Texas at Austin Libraries.
 
-### Example Sites and Publications
+### Example Project Sites
 
 * (Scalar, custom) [Freedom's Ring](http://freedomsring.stanford.edu/?view=Speech)
-* (Scalar, version 2.0) [Pathfinders](http://scalar.usc.edu/works/pathfinders/index), by Dene Grigar and Stuart Moulthrop.
-* (Omeka) [Morningside Heights Digital History](https://mhdh.library.columbia.edu/), by The Developing Librarian team at Columbia University.
+* (Scalar, version 2.0) [Pathfinders](http://scalar.usc.edu/works/pathfinders/index), by Dene Grigar and Stuart Moulthrop
+* (Omeka) [Morningside Heights Digital History](https://mhdh.library.columbia.edu/), by The Developing Librarian team at Columbia University
 * (Mukurtu) [Plateau Peoples' Web Portal](https://mukurtu.org/project/plateau-peoples-web-portal-showcase/)
-* (WordPress) [MaCleKi](https://macleki.org/) (developed through the ["Curating East Africa" project](https://csudigitalhumanities.org/2019/04/reflecting-on-the-curating-east-africa-project/))
+* (WordPress) [MaCleKi](https://macleki.org/), developed through the ["Curating East Africa" project](https://csudigitalhumanities.org/2019/04/reflecting-on-the-curating-east-africa-project/)
 * (Jekyll, using the Ed theme) [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
