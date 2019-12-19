@@ -1,4 +1,4 @@
-# Meta-Module #5: Digital Publishing & Digital Storytelling
+# Meta-Module #5: Digital Publishing
 
 This "meta-module" introduces a range of digital publishing platforms and approaches, including multimodal content management systems (CMS), static site creation, minimal computing, and innovative publishing platforms created by university presses.
 
@@ -6,12 +6,14 @@ This "meta-module" introduces a range of digital publishing platforms and approa
 
 ## Outcomes
 
-* Increased familiarity with a variety of multimodal publishing platforms created by university presses and other organizations
-* Improved understanding of the affordances and limitations of multiple digital storytelling resources and platforms
+* Increased familiarity with a variety of multimodal publishing platforms created by both university presses and other non-profit centers
+* Improved understanding of the affordances and limitations of different digital publishing platforms and approaches
 
 ## Introduction
 
-...
+The past several decades have seen a proliferation of online publishing platforms which have begun to transform the world of scholarly communication. A vast amount of digital and public-facing scholarship is now shared online via static websites, content management systems, and more recently, interactive publishing platforms hosted by university presses. This module is designed to provide a high-level overview of the range of publishing platforms and approaches to sharing scholarly content online in innovative and often interactive formats. 
+
+The focus of this module is comparative - looking broadly at a variety of tools and considering their affordances and limitations for sharing both born-digital and more traditional (long-form text-focused) scholarship openly online. Examples of digital projects hosted using these platforms are included along with tutorials in ["Additional Resources"](#additional-resources), but the emphasis throughout the following readings and activities is on gaining a general understanding of how and why digital humanists, librarians, and other scholars are using these different platforms to share their work. Some of the platforms and technologies discussed include [Scalar](https://scalar.me/anvc/), [WordPress](https://wordpress.com/), [Omeka](https://omeka.org/), [Mukurtu](https://mukurtu.org/), [GitHub Pages](https://pages.github.com/), [Jekyll](https://jekyllrb.com/), and several university press platforms. Many additional platforms exist which are not discussed here, such as [Pressbooks](https://pressbooks.com/) and [PubPub](https://www.pubpub.org/), and platforms specifically designed for publishing open educational resources (OER) and open textbooks  also lie outside the scope of this module.
 
 ## Activities
 
@@ -22,6 +24,7 @@ This "meta-module" introduces a range of digital publishing platforms and approa
 		* Introduction and Getting to Know Scalar, in ["Front Matter"](https://pressbooks.library.yorku.ca/scalar/front-matter/introduction/) **◊  Estimated Read Time = 6 minutes**
 	* Digital Humanities at Berkeley. "Choosing a platform for your project website." https://digitalhumanities.berkeley.edu/blog/13/12/04/choosing-platform-your-project-website **◊  Estimated Read Time = 10 minutes**
 	* Kirby, Jasmine Simone. 2019. "How NOT to create a digital media scholarship platform: the history of the Sophie 2.0 project." *IASSIST Quarterly* 42(4): 1–16. https://doi.org/10.29173/iq926 **◊  Estimated Read Time = 45 minutes**
+	* Kramer, Michael J. August 6, 2013. "WordPress for the Humanities: Developing a Digital History Course." http://www.michaeljkramer.net/talk-wordpress-for-the-humanities-developing-a-digital-history-course-2-0/ **◊  Estimated Read Time = 10 minutes**
 	* Varner, Stewart. January 15, 2017. "Minimal Computing in Libraries: Introduction." *Minimal Computing.* http://go-dh.github.io/mincomp/thoughts/2017/01/15/mincomp-libraries-intro/ **◊  Estimated Read Time = 5 minutes**
 	* Visconti, Amanda. December 8, 2015. "Introducing Static Sites for Digital Humanities Projects (why & what are Jekyll, GitHub, etc.?)" http://literaturegeek.com/2015/12/08/WhyJekyllGitHub **◊  Estimated Read Time = 6 minutes**
 
@@ -57,15 +60,17 @@ This "meta-module" introduces a range of digital publishing platforms and approa
 
 ### Web Publishing Tutorials
 
-* [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), by Dennis Tenen and Grant Wythoff. *The Programming Historian*
+* [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), by Dennis Tenen and Grant Wythoff. *The Programming Historian*.
 * [Jekyll Step-by-step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
-* [Building a static website with Jekyll and GitHub Pages])(https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), by Amanda Visconti. *The Programming Historian*
-* [Installing Omeka])(https://programminghistorian.org/en/lessons/installing-omeka), by Jonathan Reeve. *The Programming Historian*
-* [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka), by Miriam Posner. *The Programming Historian*
+* [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), by Amanda Visconti. *The Programming Historian*.
+* [Installing Omeka](https://programminghistorian.org/en/lessons/installing-omeka), by Jonathan Reeve. *The Programming Historian*
+* [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka), by Miriam Posner. *The Programming Historian*.
 * [Learning to Use Scalar](http://scalar.usc.edu/works/learning-to-use-scalar-2/index), by Allyssa Guzman. University of Texas at Austin Libraries.
 
 ### Example Sites and Publications
 
 * (Scalar, custom) [Freedom's Ring](http://freedomsring.stanford.edu/?view=Speech)
 * (Scalar, version 2.0) [Pathfinders](http://scalar.usc.edu/works/pathfinders/index), by Dene Grigar and Stuart Moulthrop.
+* (Omeka) [Morningside Heights Digital History](https://mhdh.library.columbia.edu/), by The Developing Librarian team at Columbia University.
+* (Mukurtu) [Plateau Peoples' Web Portal](https://mukurtu.org/project/plateau-peoples-web-portal-showcase/)
 * 
