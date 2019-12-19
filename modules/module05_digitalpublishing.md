@@ -18,19 +18,20 @@ This "meta-module" introduces a range of digital publishing platforms and approa
 - [ ] Complete [SSRC Module 11: Trends in Scholarly Communication](https://labs.ssrc.org/dds/articles/11-trends-in-scholarly-communications/) <br>
 	
 - [ ] Additional Readings
-	* Armstrong, Marcos, and Stephanie Power. *Digital Publishing with Scalar.* York University Libraries. https://pressbooks.library.yorku.ca/scalar/
-		Introduction and Getting to Know Scalar, in ["Front Matter"](https://pressbooks.library.yorku.ca/scalar/front-matter/introduction/) **◊  Estimated Read Time = 6 minutes**
+	* Armstrong, Marcos, and Stephanie Power. *Digital Publishing with Scalar.* York University Libraries. https://pressbooks.library.yorku.ca/scalar/ <br>
+		* Introduction and Getting to Know Scalar, in ["Front Matter"](https://pressbooks.library.yorku.ca/scalar/front-matter/introduction/) **◊  Estimated Read Time = 6 minutes**
 	* Digital Humanities at Berkeley. "Choosing a platform for your project website." https://digitalhumanities.berkeley.edu/blog/13/12/04/choosing-platform-your-project-website **◊  Estimated Read Time = 10 minutes**
+	* Kirby, Jasmine Simone. 2019. "How NOT to create a digital media scholarship platform: the history of the Sophie 2.0 project." *IASSIST Quarterly* 42(4): 1–16. https://doi.org/10.29173/iq926 **◊  Estimated Read Time = 45 minutes**
 	* Varner, Stewart. January 15, 2017. "Minimal Computing in Libraries: Introduction." *Minimal Computing.* http://go-dh.github.io/mincomp/thoughts/2017/01/15/mincomp-libraries-intro/ **◊  Estimated Read Time = 5 minutes**
 	* Visconti, Amanda. December 8, 2015. "Introducing Static Sites for Digital Humanities Projects (why & what are Jekyll, GitHub, etc.?)" http://literaturegeek.com/2015/12/08/WhyJekyllGitHub **◊  Estimated Read Time = 6 minutes**
-	* Kirby, Jasmine Simone. 2019. "How NOT to create a digital media scholarship platform: the history of the Sophie 2.0 project." *IASSIST Quarterly* 42(4): 1–16. https://doi.org/10.29173/iq926 **◊  Estimated Read Time = 45 minutes**
+
 
 
 - [ ] Explore and evaluate some multimodal university press platforms <br>
 	Take a few minutes to read the "About" pages for these three platforms and explore 1-2 publications hosted on each of them.
-	1. [Manifold Scholarship](https://manifoldapp.org/) (University of Minnesota Press and CUNY Graduate Center)
-	2. [RavenSpace](https://ravenspacepublishing.org/) (University of British Columbia Press and University of Washington Press)
-	3. [Fulcrum](https://www.fulcrum.org/) (University of Michigan Library and Press, with partners at Indiana, Minnesota, Northwestern, and Penn State) <br>
+	* [Manifold Scholarship](https://manifoldapp.org/) (University of Minnesota Press and CUNY Graduate Center)
+	* [RavenSpace](https://ravenspacepublishing.org/) (University of British Columbia Press and University of Washington Press)
+	* [Fulcrum](https://www.fulcrum.org/) (University of Michigan Library and Press, with partners at Indiana, Minnesota, Northwestern, and Penn State) <br>
 
 	As you read about each of these platforms, consider the following questions:
 	* Who has access to materials published through this platform (who are its audiences)?
