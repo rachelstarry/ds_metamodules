@@ -12,7 +12,7 @@ In order to transform the SSRC’s [Doing Digital Scholarship](https://labs.ssrc
 2. [Working with Digital Collections](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module02_digitalcollections.md)
 3. [Developing Digital Projects](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module03_developingdigitalprojects.md)
 4. [Annotating and Crowdsourcing Digital Projects](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module04_annotatingcrowdsourcing.md)
-5. [Digital Publishing](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module05_digitalpublishing.md)
+5. [Digital Publishing & Digital Storytelling](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module05_digitalpublishing.md)
 6. [Data Wrangling](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module06_datawrangling.md)
 7. [Data Visualization](https://github.com/rachelstarry/ds_metamodules/blob/master/modules/module07_datavisualization.md)
 
