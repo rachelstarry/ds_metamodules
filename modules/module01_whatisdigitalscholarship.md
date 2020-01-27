@@ -66,7 +66,6 @@ Notes:</br>
 * University of Michigan: [Digital Scholarship](https://guides.lib.umich.edu/digitalscholarship)
 * University of Minnesota Duluth: [Digital Humanities at UMD](http://libguides.d.umn.edu/DH)
 * University of Pennsylvania: [Digital Scholarship](https://guides.library.upenn.edu/digital-scholarship)
-* University of Rochester: [Digital Humanities](https://libguides.lib.rochester.edu/dh)
 * University of Tennessee – Knoxville: [Digital Humanities](https://libguides.utk.edu/dh)
 * University of Texas – Arlington: [Digital Humanities](https://libguides.uta.edu/digitalhumanities/home)
 * University of Texas – Austin: [Digital Humanities Tools and Resources](https://guides.lib.utexas.edu/digitalhumanities)
