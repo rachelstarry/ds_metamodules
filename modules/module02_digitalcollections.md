@@ -60,7 +60,7 @@ Notes:</br>
 ### Useful lists of online collections
 
 * Library of Congress, [Digital Collections](https://www.loc.gov/collections/)
-* [Internet Archive Collections](https://www.loc.gov/collections/)
+* [Internet Archive Collections](https://archive.org/)
 * Harvard Library, Research Guide for History, [Digital Libraries/Collections](https://guides.library.harvard.edu/history/digital)
 * Iowa State University Library, Research Guide for Archives, [Digital Collections and Collection Descriptions](http://instr.iastate.libguides.com/c.php?g=208309&p=3357797)
 
