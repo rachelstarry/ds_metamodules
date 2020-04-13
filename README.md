@@ -28,4 +28,4 @@ If you would like to provide feedback on your experience with these modules, [pl
 
 ### Contributors:
 
-- Dr. Rachel Starry, University at Buffalo (SUNY)
+- Dr. Rachel Starry, University of California - Riverside
